@@ -1,2 +1,3 @@
 # WebScraping_KeywordSearchInWebsite
 This is a python repository for scraping articles from a website, search the keyword COVID-19/Coronavirus, store them in a json variable and export those posts to excel file.
+This project was a part of my research where I need to collect news related to articles to study daily life of people during quarantine. During the pandemic it is not allowed to interview people in person and generate a web based questionnaire woud take time and the study was urgent. Thus we created an algorithm to scrape few high traffic websites and gather posts in order to furthur analyse them and generate virtual Personas.

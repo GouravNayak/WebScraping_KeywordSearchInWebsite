@@ -2,10 +2,10 @@ import tweepy
 import csv
 
 ####input your credentials here
-consumer_key = '8xrYQfWAdlfN86xE3QNfijACz'
-consumer_secret = 'TO6PQwQXhg28jtiIJAos9wGZpDfQQMHTy75LiNgU2anb4rALjx'
-access_token = '1268928769047306242-51xvh40ZZFuZvlLnCiE0PgdnSZMfgU'
-access_token_secret = 'vUrp1ipyTe22A4epYNqVSIhaS3vMeRvM43qoG3ETBFncP'
+consumer_key = ''
+consumer_secret = ''
+access_token = ''
+access_token_secret = ''
 
 #creating an OAuthHandler instance
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
